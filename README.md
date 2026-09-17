@@ -24,7 +24,7 @@ alongside AUC scores of 0.95, 0.91, and 0.94 respectively.
 |---|---|
 | [`notebook/breast_cancer_prediction.ipynb`](notebook/breast_cancer_prediction.ipynb) | An independent, executed reproduction of the paper's six-phase pipeline (preprocessing, LASSO feature selection, Min-Max scaling, model selection, hyperparameter tuning via cross-validation, evaluation), with all figures regenerated from real runs |
 | `requirements.txt` | Exact packages needed to re-run the notebook |
-| `paper/` | Full-text PDF of the published paper *(added separately — see below)* |
+| [`paper/Towards_Enhanced_Breast_Cancer_Prediction.pdf`](paper/Towards_Enhanced_Breast_Cancer_Prediction.pdf) | Full text of the published paper |
 
 ## About the reproduction
 
